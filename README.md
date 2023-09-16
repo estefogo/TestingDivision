@@ -1,4 +1,4 @@
-<h1>Division, Rest and Square Root</h1>
+<h1> 🧮 Division, Rest and Square Root</h1>
 <h3>🧙‍♀️ Author: Rafaela Mendonça Estefogo</h3>
 <h3>📝 Language: Java</h3>
 <h3>🖥️ IDE: NetBeans</h3>
