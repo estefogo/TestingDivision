@@ -6,7 +6,6 @@
 <hr>
 <h3>Description:</h3>
 <p>The program calculates the division and the rest of the division of two numbers, and the square root of the numerator, as shown below:</p>
-<br>
 <img src="tela.png">
 
 
